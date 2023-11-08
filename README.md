@@ -5,5 +5,5 @@
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3" />
-  <img alt="SASS" src="https://img.shields.io/badge/sass/v/sass.svg?logo=sass" />
+  <img alt="SASS" src="https://img.shields.io/badge/sass.svg?logo=sass" />
 </div>

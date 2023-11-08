@@ -1,6 +1,6 @@
 ### Seja bem-vind@ 🌠
 <div style="display: inline_flex">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-blue?logo=javascript" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-grey?logo=javascript" />
   <img alt="ReactJs" src="https://img.shields.io/badge/?logo=reactjs" />
   <img alt="PHP" src="https://img.shields.io/badge/?logo=php" />
   <img alt="HTML5" src="https://img.shields.io/badge/?logo=html5" />

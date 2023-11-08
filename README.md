@@ -7,7 +7,7 @@
 <br />
 <div style="display: inline_flex">
   <img alt="Ubuntu 20.04" src="https://img.shields.io/badge/Ubuntu-DD4814?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  [https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330]
+  <img alt="JavaScript" src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" />
   <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white" />

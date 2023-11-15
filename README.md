@@ -1,5 +1,6 @@
 ### Seja bem-vind@ 🌠
 <div style="display: inline_flex">
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-1572B6?logo=wordpress&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-grey?logo=javascript" />
   <img alt="ReactJs" src="https://img.shields.io/badge/ReactJs-grey?logo=react" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />

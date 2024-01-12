@@ -8,5 +8,5 @@
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
   <img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white" />
   <img alt="TailwindCss" src="https://img.shields.io/badge/tailwindcss-0b1120?logo=TailwindCss&logoColor=06B6D4" />
-  ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+  <img alt="Astro" src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" />
 </div>
